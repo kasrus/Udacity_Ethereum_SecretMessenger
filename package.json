@@ -1,0 +1,16 @@
+{
+  "name": "ethereumsecretmessenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "dev": "lite-server" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "lite-server": "^2.6.1",
+    "web3": "^1.7.0"
+  }
+}
